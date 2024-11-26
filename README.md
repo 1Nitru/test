@@ -1,2 +1,2 @@
 # test
-test for git traaining
+test for git 
